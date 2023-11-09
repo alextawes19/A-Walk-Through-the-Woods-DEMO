@@ -1,5 +1,5 @@
 # A-Walk-Through-the-Woods-DEMO
-demo of A Walk Through the Woods
+Demo of A Walk Through the Woods
 
 Virtual nature experience made in the Unity game engine.
 
