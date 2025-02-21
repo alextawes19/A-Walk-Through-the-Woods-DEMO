@@ -1,4 +1,4 @@
-# A-Walk-Through-the-Woods-DEMO
+# A-Walk-Through-the-Woods-DEMO :evergreen_tree:
 Demo of A Walk Through the Woods
 
 Virtual nature experience made in the Unity game engine.
